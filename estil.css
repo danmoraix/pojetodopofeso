@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(15, 10, 10);
+}
+p{
+    color:rgb(15, 194, 125);
+    
+}
+h1{
+    color: yellow;
+}
+h2, h3, h4{
+    color:rgb(121, 0, 0);
+}
